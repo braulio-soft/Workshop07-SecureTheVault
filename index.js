@@ -1,4 +1,13 @@
-// Secure the Vault - Workshop 07 
+ 
+/*
+Pseudocode 
+1. Set message for users .
+2. Assign 3 variables that are calculations using unique operators +*-/
+3. Create html file and add script to link your js file . 
+4. Add funciton alert to generate dialog box .
+5. Create a new repo and link your code .  
+
+*/
 
 // User Message 
 const message = "You have received this message because you have been chosen to open an important vault.Here is the secret combination:"
